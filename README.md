@@ -1,6 +1,7 @@
 # movies_review_app
 This is a movies review application created with java and spring boot framework.
 This poject was created during my second year at linnaeus university, where I study my bachelor's degree in computer science.
+There's allot of stuff you can do here. You can subscribe to a movie and get the lates review of that movie sent to you and much more!
 
 ### Instructions for movies reviews api.
 
